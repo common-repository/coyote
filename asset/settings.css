@@ -1,0 +1,28 @@
+#process-existing-posts label {
+    font-weight: bold;
+}
+
+#process-existing-posts .form-group + .form-group {
+    margin-top: .5em;
+}
+
+#process-controls {
+    margin: 1em 0;
+}
+
+[role="alert"] {
+    font-weight: bold;
+}
+
+#coyote_is_standalone {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 1em;
+    max-width: 44em;
+    border: 2px solid;
+}
+
+#coyote_verify_resource_group_status {
+    margin-left: .5em;
+    vertical-align: middle;
+}

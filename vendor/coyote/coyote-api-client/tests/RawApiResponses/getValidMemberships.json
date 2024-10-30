@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "388",
+      "type": "membership",
+      "attributes": {
+        "active": true,
+        "first_name": "Jane",
+        "last_name": "Doe",
+        "email": "jane.doe@example.org",
+        "role": "author",
+        "organization_id": "1"
+      }
+    }
+  ],
+  "jsonapi": {
+    "version": "1.0"
+  }
+}

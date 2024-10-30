@@ -1,0 +1,8 @@
+.idea/
+vendor/
+composer.lock
+phpcs.phar
+.tests/RawApiResponses/
+requests.log
+.phpunit.cache
+.phpunit.result.cache

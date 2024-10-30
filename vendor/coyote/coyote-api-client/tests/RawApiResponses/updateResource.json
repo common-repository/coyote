@@ -1,0 +1,42 @@
+{
+  "data": {
+    "id": "422430",
+    "type": "resource",
+    "attributes": {
+      "id": 422430,
+      "name": "updated",
+      "resource_type": "image",
+      "canonical_id": null,
+      "source_uri": "https://saaaaaandbox.thepeale.org/wp-content/uploads/2021/12/lock-free-img.png",
+      "created_at": "2022-06-29T19:18:55.899Z",
+      "updated_at": "2022-06-29T19:20:07.485Z",
+      "resource_group": "Uncategorized"
+    },
+    "relationships": {
+      "organization": {
+        "meta": {
+          "included": false
+        }
+      },
+      "resource_groups": {
+        "meta": {
+          "included": false
+        }
+      },
+      "representations": {
+        "meta": {
+          "included": false
+        }
+      }
+    },
+    "links": {
+      "coyote": "http://staging.coyote.pics/organizations/1/resources/422430"
+    }
+  },
+  "links": {
+    "coyote": "https://staging.coyote.pics/organizations/1/resources/422430"
+  },
+  "jsonapi": {
+    "version": "1.0"
+  }
+}
